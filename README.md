@@ -1,6 +1,6 @@
-# Project Lyrics
+# Project Landing Page
 
-Develop an elegant React.js Music Application. 
+Develop an elegant React.js Application. 
 
 ## System Requirements
 
