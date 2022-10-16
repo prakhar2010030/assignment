@@ -1,0 +1,21 @@
+.navbar {
+    display: flex;
+    align-items: center;
+    justify-content: flex-end;
+    background: #171a21;
+    color: #e0ecff;
+    gap: 2em;
+    height: 43px;
+}
+.navItem {
+      margin:0 1em;
+    font-family: "Inter", sans-serif;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 0.4em;
+    font-weight: 500;
+    font-size: 14px;
+    line-height: 17px;
+  }
+  

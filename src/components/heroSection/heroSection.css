@@ -1,0 +1,34 @@
+.hero {
+  background-color: black;
+  font-family: "Inter", sans-serif !important;
+}
+
+.logoSection {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding:1em;
+}
+.btn {
+  background: #0070e7;
+  border-radius: 12px;
+  text-transform: capitalize !important;
+}
+
+
+.emailSection {
+  padding:1.5em 0;
+  font-size: 24px;
+  font-weight: 700;
+  text-align: center;
+  color: white;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+@media (max-width:807px) {
+  .emailImage{
+    width: 100%;
+  }
+}
